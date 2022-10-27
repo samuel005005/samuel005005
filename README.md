@@ -55,29 +55,36 @@
 <code><img title="Vagrant" alt="vagrant" width="65" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vagrant/vagrant-original.svg" /></code>
 </br></br>
   
-  
-******
-### - 📫 How to reach me: ...
-   <p>
-      <a href="www.linkedin.com/in/franklyncastro">
-         <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Cesar Contreras LinkedIn Profile" height="30" width="30">
-      </a>   
-      <a align='right' href="mailto:luiggylml@gmail.com">
-         <img alt="Hotmail" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="30"/>
-      </a>  
-   </p>
-   <p><label>franklyncastro@hotmail.com</label></p>
-   
-   
-  ![Snake animation](https://github.com/rencas1207/rencas1207/blob/output/github-contribution-grid-snake.svg)
-   
-   <div align="center">
-        <img src="https://komarev.com/ghpvc/?username=lgcarlinf&color=24833e" alt="" width="12%" height="12%"/> 
-    </div>
-
-
-
-
+<h2>:thought_balloon: Quote of the day</h2>
+<details open>
+<summary>See quote</summary>
+    <a href="https://github.com/piyushsuthar/github-readme-quotes">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
+    </a>
+</details>
+<h2>:zany_face: Joke of the day</h2>
+<details>
+<summary>See joke</summary>
+    <a href="https://github.com/ABSphreak/readme-jokes">
+        <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
+    </a>
+</details>
+<h2>:octocat: My GitHub Stats</h2>
+<details>
+<summary>General Stats</summary>
+<div>
+    <a href="https://badges.strrl.dev"><img alt="github repos" src="https://badges.strrl.dev/repos/samuel005005?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
+    <a href="https://badges.strrl.dev"><img alt="commits today" src="https://badges.strrl.dev/commits/daily/samuel005005?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
+    <a href="https://badges.strrl.dev"><img alt="commits this week" src="https://badges.strrl.dev/commits/weekly/samuel005005?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
+    <a href="https://badges.strrl.dev"><img alt="commits this month" src="https://badges.strrl.dev/commits/monthly/samuel005005?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
+    <a href="https://badges.strrl.dev"><img alt="all commits" src="https://badges.strrl.dev/commits/all/samuel005005?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
+</div>
+<div alig="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height=180em src="https://github-readme-stats-carol42.vercel.app/api?username=Carol42&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true" alt="my github stats" />
+    </a>
+</div>
+</details>
     
 
 
