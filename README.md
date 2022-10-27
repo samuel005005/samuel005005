@@ -3,7 +3,7 @@
  <p align="center">
  <h1 align="center">Hi I'm Samuel Paez Perez<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80"/> </h1>
  <h4 align="center"> 
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76400&background=51FF1E00&width=435&lines=I'm+backend+developer;Always+learning+new+things!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7E3ACE&background=51FF1E00&width=435&lines=I'm+backend+developer;Always+learning+new+things!" alt="Typing SVG" /></a>
 </h4>
 </p>
 <br>
@@ -81,12 +81,24 @@
 </div>
 <div alig="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height=180em src="https://github-readme-stats-carol42.vercel.app/api?username=Carol42&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true" alt="my github stats" />
+        <img height=180em src="https://github-readme-stats.vercel.app/api?username=samuel005005&show_icons=true&theme=midnight-purple" alt="my github stats" />
     </a>
 </div>
 </details>
-    
-
+<details>
+<summary>Top languages</summary>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel005005&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10" alt="most used languages" />
+    </a>
+    <p><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
+</details>
+<details>
+<summary>Profile visitors</summary>
+<p align="center">:round_pushpin: Profile visitors</p>
+<div align="center">
+    <img alt="visitors counter" src="https://profile-counter.glitch.me/samuel005005/count.svg">
+</div>
+</details>
 
 
 <!--
