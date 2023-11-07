@@ -36,6 +36,8 @@
 <code><img title="Typescript" alt="typescript" width="65px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" /></code>
 <code><img title="Wordpress" alt="wordpress" width="65px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-original.svg" /></code>
 </br></br>
+<code><img title="Kotlin" alt="wordpress" width="65px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" /></code>
+</br></br>
   
 
 </div>
